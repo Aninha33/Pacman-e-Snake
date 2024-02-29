@@ -1,2 +1,6 @@
 # Pacman-e-Snake
-Concepção de um Algoritmo Genético (AG) capaz de controlar o jogo da cobrinha "Snake" e outro agente inteligente capaz de encontrar o melhor caminho no jogo clássico conhecido como "Pacman"
+Concepção de um Algoritmo Genético (AG) capaz de controlar o jogo da cobrinha "Snake" e outro agente inteligente capaz de encontrar o melhor caminho no jogo clássico conhecido como "Pacman". 
+
+Segunda e Terceira atividade relacionada a matéria Sistemas Inteligentes 1, ao qual foi-se desenvolvido dois projetos, o primeiro sendocomo propósito a concepção de um Algoritmo Genético (AG) capaz de controlar o jogo da cobrinha "Snake", onde para esse fim, utiliza-se para facilitar o desenvolvimento, uma estrutura de jogo implementada com programação orientada a objetos (POO) em Python, usando a biblioteca PyGame. A plataforma utilizada para o desenvolvimento foi o Visual Studio Code e tem como objetivo principal desenvolver um algoritmo genético capaz de gerar, avaliar e recombinar diferentes indivíduos de uma população, visando maximizar a pontuação, e por fim, selecionando o melhor ao final da execução. 
+
+Já para outra atividade, tem como propósito a concepção de um agente inteligente capaz de encontrar o melhor caminho no jogo clássico conhecido como "Pacman". Para esse fim, utiliza-se também a plataforma Visual Studio Code com a linguagem de programação Python. O objetivo principal deste projeto é capacitar nosso agente Pacman a encontrar caminhos no labirinto de forma eficiente, tanto para atingir seu destino quanto para coletar comidas. 
